@@ -46,7 +46,7 @@ body{
 }
 
 #banner{
-    color: white;
+    color: rgb(54, 245, 213);
     object-fit: contain;
     height: 644px;
     background-position: center center;
@@ -54,8 +54,8 @@ body{
 }
 #banner_contents{
     margin-left: 70px;
-    padding-top: 340px;
-    height: 190px;
+    padding-top: 360px;
+    height: 200px;
 }
 #banner_title{
     font-size: 3rem;
@@ -63,11 +63,12 @@ body{
     padding-bottom: 0.3rem;
 }
 #banner_description{
+    color: rgb(203, 237, 91);
     width: 45rem;
     line-height: 1.5;
     padding-top: 1rem;
-    font-size: .9rem;
-    max-width: 360px;
+    font-size: 1rem;
+    max-width: 300px;
     height: 80px;
 }
 
